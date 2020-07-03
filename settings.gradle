@@ -1,0 +1,2 @@
+rootProject.name='Baratalk Dashboard'
+include ':app'
